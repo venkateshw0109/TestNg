@@ -31,7 +31,7 @@ public class Assert_Concept {
 		SoftAssert s = new SoftAssert();
 		s.assertEquals(actual, expected);
 		s.assertAll();
-		
+		System.out.println("Java");
 	}
 
 }
